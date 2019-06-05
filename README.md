@@ -4,8 +4,7 @@
 <h3 align="center">OptimiserRIP</h3>
 
 
-
-
+##
 ## Sommaire
 
 - [Installation](#installation)
